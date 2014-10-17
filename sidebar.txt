@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nzm:home|Door43 (nzm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nzm|d43-nzm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nzm/archive/master.zip|d43-nzm.zip]]
+
+**Recent Changes**
+{{changes>ns = nzm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nzm|Ethnologue data]]
+
